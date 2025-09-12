@@ -36,7 +36,6 @@ public class Problem10 {
             }
         }
         result.append(intToChar(beforeNumber, count));
-
         System.out.println(result);
     }
 
