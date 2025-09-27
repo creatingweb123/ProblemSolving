@@ -1,3 +1,5 @@
+package goormMondayChallenge;
+
 import java.io.*;
 
 public class Problem1 {
